@@ -1,3 +1,3 @@
 # Abstimmungsparolen
 
-Volksabstimmung Juni 2021
+Volksabstimmung vom 15. Mai 2022
